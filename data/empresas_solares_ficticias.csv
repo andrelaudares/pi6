@@ -1,0 +1,51 @@
+Nome da Empresa,Localidade,Tipo de Sistema Oferecido,Experiência com Tipos de Terrenos e Estruturas,Certificações Técnicas,Faixa de Preço por kWh Gerado,Pacote de Manutenção e Garantia,Distância Máxima de Cobertura (km),Tempo Médio de Instalação (dias),Avaliação Média dos Clientes,Oferece Financiamento,Oferece Incentivos Fiscais/Subsídios,Preço por Placa Solar (R$),Custo de Instalação Base (R$),Preço Total para 10 Placas (R$)
+Empresa Solar 1,São Paulo,Híbrido,Baixa,Certificado Regional,Média,Avançado,64,42,3.5,Sim,Sim,2572.26,5950.16,31672.760000000002
+Empresa Solar 2,São Paulo,Térmico,Baixa,Inmetro,Alta,Avançado,31,7,4.1,Não,Parcial,4740.64,5790.66,53197.06
+Empresa Solar 3,Brasília,Fotovoltaico,Alta,Inmetro,Baixa,Avançado,25,50,4.7,Não,Parcial,3880.71,5346.95,44154.049999999996
+Empresa Solar 4,Belo Horizonte,Térmico,Alta,Inmetro,Alta,Intermediário,30,35,4.5,Sim,Parcial,2991.2,8508.86,38420.86
+Empresa Solar 5,Brasília,Fotovoltaico,Alta,Inmetro,Alta,Intermediário,6,25,4.4,Sim,Sim,4985.27,6574.88,56427.58
+Empresa Solar 6,Porto Alegre,Térmico,Baixa,Certificado Regional,Alta,Intermediário,18,47,3.5,Não,Sim,4301.53,10076.6,53091.899999999994
+Empresa Solar 7,Salvador,Térmico,Alta,Inmetro,Alta,Intermediário,10,53,4.8,Sim,Não,4253.96,9948.66,52488.259999999995
+Empresa Solar 8,Rio de Janeiro,Fotovoltaico,Média,ISO 9001,Média,Básico,9,55,4.6,Não,Não,4548.48,14512.75,59997.549999999996
+Empresa Solar 9,Brasília,Térmico,Alta,ISO 14001,Média,Básico,99,30,4.8,Não,Parcial,4081.12,6666.44,47477.64
+Empresa Solar 10,Rio de Janeiro,Térmico,Média,ISO 14001,Alta,Básico,55,21,3.8,Não,Não,2032.16,5509.84,25831.440000000002
+Empresa Solar 11,Belo Horizonte,Fotovoltaico,Baixa,ISO 9001,Média,Intermediário,65,10,4.3,Sim,Parcial,4052.61,10525.48,51051.58
+Empresa Solar 12,Manaus,Fotovoltaico,Alta,ISO 14001,Baixa,Intermediário,48,46,5.0,Não,Sim,4313.89,6568.14,49707.04
+Empresa Solar 13,Rio de Janeiro,Fotovoltaico,Alta,Inmetro,Média,Intermediário,74,26,3.2,Não,Sim,4622.26,10963.34,57185.94
+Empresa Solar 14,Brasília,Fotovoltaico,Alta,Inmetro,Média,Básico,39,31,4.6,Não,Sim,4521.31,8177.5,53390.600000000006
+Empresa Solar 15,Salvador,Térmico,Alta,Nenhuma,Média,Básico,38,34,3.2,Sim,Parcial,4291.2,9614.37,52526.37
+Empresa Solar 16,Belo Horizonte,Híbrido,Baixa,ISO 9001,Alta,Intermediário,44,53,3.3,Não,Não,4816.66,14078.8,62245.399999999994
+Empresa Solar 17,Brasília,Térmico,Alta,Inmetro,Baixa,Avançado,12,35,4.1,Sim,Sim,4405.08,11730.67,55781.47
+Empresa Solar 18,Salvador,Fotovoltaico,Média,Inmetro,Baixa,Básico,87,34,3.8,Não,Não,4843.85,8314.05,56752.55
+Empresa Solar 19,Brasília,Térmico,Alta,ISO 9001,Alta,Avançado,17,21,3.3,Não,Parcial,3918.04,8609.86,47790.26
+Empresa Solar 20,Brasília,Híbrido,Média,Certificado Regional,Baixa,Intermediário,49,21,3.9,Não,Sim,4747.87,9856.84,57335.53999999999
+Empresa Solar 21,Recife,Híbrido,Média,ISO 9001,Alta,Intermediário,85,40,4.6,Não,Sim,4956.42,6293.45,55857.649999999994
+Empresa Solar 22,Belo Horizonte,Térmico,Baixa,ISO 14001,Baixa,Básico,51,16,4.5,Sim,Não,2343.75,6669.12,30106.62
+Empresa Solar 23,Brasília,Térmico,Média,Inmetro,Média,Básico,12,20,3.1,Não,Sim,2924.32,14994.0,44237.2
+Empresa Solar 24,Belo Horizonte,Fotovoltaico,Alta,Nenhuma,Alta,Avançado,13,45,4.2,Sim,Não,3773.66,13735.7,51472.3
+Empresa Solar 25,São Paulo,Fotovoltaico,Alta,ISO 9001,Média,Avançado,16,60,3.2,Sim,Parcial,3524.36,14396.11,49639.71
+Empresa Solar 26,Brasília,Térmico,Média,Certificado Regional,Baixa,Avançado,94,18,4.5,Não,Não,4407.03,12742.25,56812.549999999996
+Empresa Solar 27,Salvador,Híbrido,Média,ISO 9001,Baixa,Intermediário,84,50,3.0,Não,Parcial,2533.85,10888.74,36227.24
+Empresa Solar 28,Brasília,Híbrido,Baixa,Inmetro,Baixa,Intermediário,65,54,5.0,Não,Parcial,2332.66,9472.23,32798.83
+Empresa Solar 29,Curitiba,Térmico,Baixa,Certificado Regional,Alta,Avançado,57,12,3.3,Sim,Não,4375.21,14024.68,57776.78
+Empresa Solar 30,Curitiba,Híbrido,Alta,Inmetro,Média,Intermediário,29,42,3.8,Sim,Parcial,3688.13,9020.6,45901.9
+Empresa Solar 31,Belo Horizonte,Fotovoltaico,Média,Inmetro,Baixa,Intermediário,22,19,3.5,Não,Sim,4220.79,13486.93,55694.83
+Empresa Solar 32,São Paulo,Fotovoltaico,Baixa,Certificado Regional,Alta,Básico,73,19,3.1,Sim,Não,4800.27,8950.11,56952.810000000005
+Empresa Solar 33,Curitiba,Fotovoltaico,Alta,Inmetro,Baixa,Intermediário,36,56,4.4,Não,Não,4481.78,8151.39,52969.189999999995
+Empresa Solar 34,Belo Horizonte,Híbrido,Baixa,ISO 14001,Alta,Básico,65,57,4.6,Não,Sim,2639.38,7118.61,33512.41
+Empresa Solar 35,São Paulo,Híbrido,Baixa,ISO 14001,Alta,Básico,40,44,4.7,Sim,Sim,2129.83,10372.41,31670.71
+Empresa Solar 36,Manaus,Térmico,Média,ISO 14001,Média,Básico,99,7,3.6,Não,Parcial,4055.86,6820.0,47378.6
+Empresa Solar 37,Fortaleza,Térmico,Média,Inmetro,Média,Intermediário,91,44,3.4,Não,Parcial,2412.11,11061.18,35182.28
+Empresa Solar 38,Brasília,Fotovoltaico,Alta,ISO 14001,Baixa,Básico,61,15,4.8,Não,Parcial,4536.64,7965.68,53332.08
+Empresa Solar 39,São Paulo,Térmico,Baixa,Nenhuma,Baixa,Intermediário,80,16,4.3,Sim,Não,3349.9,10548.56,44047.56
+Empresa Solar 40,Salvador,Híbrido,Alta,Certificado Regional,Média,Avançado,81,56,3.4,Sim,Sim,2147.31,6594.31,28067.41
+Empresa Solar 41,Recife,Fotovoltaico,Baixa,Inmetro,Alta,Intermediário,82,21,4.0,Sim,Não,3937.28,12987.1,52359.9
+Empresa Solar 42,São Paulo,Híbrido,Média,ISO 9001,Baixa,Avançado,16,38,4.0,Sim,Não,3408.92,8157.28,42246.479999999996
+Empresa Solar 43,Salvador,Térmico,Média,ISO 14001,Média,Intermediário,92,40,3.8,Sim,Parcial,4267.0,12796.4,55466.4
+Empresa Solar 44,Manaus,Híbrido,Média,Certificado Regional,Baixa,Avançado,73,36,3.6,Não,Sim,3255.31,7717.42,40270.52
+Empresa Solar 45,Fortaleza,Híbrido,Baixa,Nenhuma,Média,Avançado,35,56,4.6,Sim,Não,4435.24,8471.21,52823.60999999999
+Empresa Solar 46,Porto Alegre,Térmico,Média,Inmetro,Alta,Básico,12,58,3.2,Sim,Não,4946.4,13895.67,63359.67
+Empresa Solar 47,Rio de Janeiro,Térmico,Média,ISO 9001,Média,Avançado,79,40,4.7,Não,Sim,4283.21,13970.07,56802.17
+Empresa Solar 48,Brasília,Térmico,Média,ISO 9001,Baixa,Avançado,55,46,4.5,Não,Sim,2885.41,7271.54,36125.64
+Empresa Solar 49,Salvador,Térmico,Baixa,Nenhuma,Alta,Intermediário,8,50,3.2,Não,Não,2849.01,11645.31,40135.41
+Empresa Solar 50,Salvador,Híbrido,Alta,ISO 9001,Alta,Intermediário,20,12,3.6,Não,Parcial,2096.61,11732.02,32698.120000000003

@@ -1,0 +1,10 @@
+langchain
+langchain-community
+chromadb
+pandas
+scikit-learn
+fastapi
+uvicorn
+python-dotenv
+openai
+sentence-transformers
