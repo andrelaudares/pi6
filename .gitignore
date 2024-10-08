@@ -1,0 +1,20 @@
+# Ambiente virtual
+novo_venv/
+venv/
+
+# Arquivos de cache Python
+__pycache__/
+*.pyc
+
+# Outros arquivos/diretórios que você não quer versionar
+.env
+*.log
+
+# Arquivos do sistema Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
